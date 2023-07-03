@@ -1,0 +1,48 @@
+.titulo1{
+    display: inline;
+    color: powderblue;
+    font-size: 45px;
+    text-align: center;    
+    }
+ body{
+    background-color: darkblue;
+    }
+    .texto1{
+        color: azure;
+        font-size: 23px;
+    }
+    .texto2{
+        color: azure;
+        font-size: 23px;
+    }
+    .texto3{
+        color: azure;
+        font-size: 23px;
+        display: block;
+    }
+   
+    .imagem1{
+        width: 50%;
+    } 
+    
+    .texto4     {
+        color: azure;
+        font-size: 23px;
+        display: block;
+    }
+
+    .texto5{
+        color: azure;
+        font-size: 23px;
+        display: block;
+    }
+
+    .texto6{
+        color: azure;
+        font-size: 23px;
+        display: block;
+    }
+
+    .link1{
+        color: darkred;
+    }
